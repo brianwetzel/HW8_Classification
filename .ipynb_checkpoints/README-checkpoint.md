@@ -4,5 +4,4 @@ In the credit risk ensemble we could not complete the questions because there is
 
 See link below:
 
-git@github.com:brianwetzel/HW8_Classification.git
-
+https://github.com/scikit-learn-contrib/imbalanced-learn/issues/872
